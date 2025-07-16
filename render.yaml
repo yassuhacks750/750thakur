@@ -1,10 +1,10 @@
 services:
   - type: web
-    name: saini-txt-direct
+    name: yassu-hacks750
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: https://github.com/yassuhacks750/TXT-750-VIDEO
+    repo: https://github.com/yassuhacks750/750thakur
     branch: main
     autoDeploy: false
     envVars:
